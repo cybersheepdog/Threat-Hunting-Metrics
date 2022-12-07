@@ -30,8 +30,8 @@ From the original version which has time spent hunting as a metric.  I try to st
 
 Here is the Threat Hunt Tracking Tab.
 
-![Threat Hunts Tracking](Threat_Hunts_Tab.png)
+![Threat Hunts Tracking]()
 
 Here is the Recommendations tab to track your recommendations to improve security posture.
 
-![Recommendations Tracking](Recommendations_Tab.png)
+![Recommendations Tracking]()
